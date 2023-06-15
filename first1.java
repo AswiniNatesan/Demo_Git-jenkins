@@ -3,5 +3,6 @@ public class first1{
 		System.out.println("hello world");
 		System.out.println("welcome to jenkins");//newly added
 		System.out.println("new change");
+		System.out.println(10+20);
 }
 }
